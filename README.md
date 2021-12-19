@@ -164,3 +164,5 @@ VALUES(
 )
 
 ```
+# Utilização
+ Importe o arquivo bacpac na sua plataforma de execução do banco de dados e execute.

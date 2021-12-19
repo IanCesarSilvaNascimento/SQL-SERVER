@@ -1,7 +1,7 @@
 # SQL-SERVER
  Criação de um banco de dados teste
 
-#Curso.bacpac
+# Create
  Script de criação do DataBase Curso - tabelas - colunas - chaves primárias e extrangeiras.
 
 ```Code
@@ -131,7 +131,7 @@ CREATE TABLE [StudentCourse]
 );
 GO
 ```
-# INSERT INTO
+# INSERT 
  Script para selecionar a tabela e inserir dados(Neste caso foi utilizado tabela Author e Student como exemplo).
 ```Code
 SELECT  *  FROM  [Author]

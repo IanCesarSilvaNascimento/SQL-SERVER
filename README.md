@@ -1,8 +1,8 @@
 # SQL-SERVER
- Criação de um banco de dados teste
+ Teste de requisições utilizando a linguagem SQL.
 
 # Create
- Script de criação do DataBase Curso - tabelas - colunas - chaves primárias e extrangeiras.
+ Script de criação do DataBase.
 
 ```Code
 
